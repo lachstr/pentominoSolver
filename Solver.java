@@ -38,7 +38,7 @@ public class Solver {
     	return;
     }
 
-    private static GridNode aSolution(GridNode firstNode, boolean reusablePentominoes){
+    private GridNode aSolution(GridNode firstNode, boolean reusablePentominoes){
     	/*Depth first search for a solution*/
 		GridNode node = firstNode;
 		Stack<GridNode> stack = new Stack<GridNode>();
