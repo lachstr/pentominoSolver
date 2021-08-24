@@ -4,8 +4,8 @@ import java.util.*;
  * Main method for working with pentominoes. Change the parameter of the
  * pentomino constructor to change the selected pentomino representation.
  * 
- * Group members: Lachlan Macartney (5129496), Suppanut Chaimathikul (6991678)
- * Toby Meyrick (1998580), Jake Perkins (2713308)
+ * By Lachlan Macartney, Suppanut Chaimathikul,
+ * 	Toby Meyrick, Jake Perkins
  */
 public class Solver {
 
